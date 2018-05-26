@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="OpNet:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="OpNet.war">
+      <element id="artifact" artifact-name="OpNet:war exploded" />
+    </root>
+  </artifact>
+</component>
