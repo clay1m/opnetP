@@ -33,7 +33,7 @@ public class OpNetInitializer extends AbstractAnnotationConfigDispatcherServletI
 	}
     
     /*Set these variables for your project needs*/ 
-    private static final String LOCATION = "";
+    private static final String LOCATION = "/home/clay/temp";
 	
 //    private static final String LOCATION = "C:/temp/";
 
